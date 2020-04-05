@@ -1,0 +1,2 @@
+# nihao
+python初学
